@@ -23,7 +23,7 @@ themeColor = "green"
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Alison Dowdney"
       logoHomeLink = "/"
 
 
